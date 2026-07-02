@@ -49,7 +49,6 @@ $related_products = $related->get_result();
         <a href="index.php#testimoni" class="nav-link-velox">Testimoni</a>
         <a href="index.php#kontak" class="nav-link-velox">Kontak</a>
       </div>
-      <a href="login.php" class="btn-velox-primary" style="padding: 0.5rem 1.25rem; border-radius: 4px; font-size: 0.75rem;">Admin</a>
     </div>
   </div>
 </nav>
