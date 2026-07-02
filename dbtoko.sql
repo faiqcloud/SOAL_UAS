@@ -95,7 +95,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `username`, `password`, `nama_lengkap`, `created_at`) VALUES
-(1, 'admin', '$2y$10$fYiC6QgqNd0kCdO.XVRmqurqWuO01dNXzbM5xHO41SjmWwVyuKMrC', 'Administrator Velox Co', '2026-07-02 14:44:58');
+(1, 'admin', 'admin123', 'Administrator Velox Co', '2026-07-02 14:44:58');
 
 --
 -- Indexes for dumped tables
